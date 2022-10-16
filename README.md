@@ -16,7 +16,7 @@ The features implemented for this shell include:
 
 ## Distribution of Work
 
-![Command]('Example Commands'/example1.png)
+![example1](https://user-images.githubusercontent.com/44028504/196055527-50244ca0-3a44-4bf4-855f-b2742375bf95.JPG)
 
 Impementing the following features was done collectively by both Cesar and Piotr:
 
