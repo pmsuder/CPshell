@@ -16,6 +16,8 @@ The features implemented for this shell include:
 
 ## Distribution of Work
 
+![Command]('Example Commands'/example1.png)
+
 Impementing the following features was done collectively by both Cesar and Piotr:
 
 * Built-in commands.
